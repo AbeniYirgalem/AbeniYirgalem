@@ -36,4 +36,4 @@ I love turning ideas into code, exploring new technologies, and participating in
 
 ---
 
-![Abeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeniYirgalem&show_icons=true&theme=radical)
