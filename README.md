@@ -7,9 +7,8 @@ I'm a **Software Engineering student** at **AASTU** and a **self-taught AI/ML en
 ## 🔭 What I'm Doing
 - Developing **full-stack applications** with the **MERN stack**
 - Building **React-based UI/UX projects** with Tailwind CSS
-- Learning **AI/ML independently** using Python and C++
 - Preparing **hackathon projects**
-- Exploring **Python, Django, and AI/ML tools**
+- Learning **AI and Machine Learning** using **Python, Scikit-Learn, Matplotlib, Pandas, and NumPy**
 
 ---
 
@@ -27,12 +26,14 @@ I'm a **Software Engineering student** at **AASTU** and a **self-taught AI/ML en
 
 ---
 
-### **AI & Machine Learning (Self-Taught)**
+### **AI & Machine Learning **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ---
 
