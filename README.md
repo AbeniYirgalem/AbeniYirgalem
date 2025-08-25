@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Abenezer Yirgalem
 
-I'm a **Software Engineering student** at **AASTU** and a **self-taught AI enthusiast**, passionate about web development, AI, and building real-world projects. I love creating solutions that make an impact and continuously improving my skills.
+I'm a **Software Engineering student** at **AASTU** and a **self-taught AI/ML enthusiast**, passionate about web development, AI, and building real-world projects. I love turning ideas into code and continuously improving my skills.
 
 ---
 
 ## 🔭 What I'm Doing
 - Developing **full-stack applications** with the **MERN stack**
 - Building **React-based UI/UX projects** with Tailwind CSS
-- Learning **AI/ML on my own** using Python and popular libraries
+- Learning **AI/ML independently** using Python and C++
 - Preparing **hackathon projects**
-- Exploring **Python, Django, and data science tools**
+- Exploring **Python, Django, and AI/ML tools**
 
 ---
 
@@ -27,8 +27,12 @@ I'm a **Software Engineering student** at **AASTU** and a **self-taught AI enthu
 
 ---
 
-### **AI & Data Science (Self-Taught)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### **AI & Machine Learning (Self-Taught)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
