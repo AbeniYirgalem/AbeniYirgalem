@@ -8,7 +8,7 @@ I'm a **Software Engineering student** at **AASTU** and a **self-taught AI/ML en
 - Developing **full-stack applications** with the **MERN stack**
 - Building **React-based UI/UX projects** with Tailwind CSS
 - Preparing **hackathon projects**
-- Learning **AI and Machine Learning** using **Python, Scikit-Learn, Matplotlib, Pandas, and NumPy**
+- Learning **AI and Machine Learning** using **Python, Matplotlib, Pandas, and NumPy**
 
 ---
 
