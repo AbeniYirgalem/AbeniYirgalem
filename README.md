@@ -10,7 +10,15 @@ I’m passionate about **web development**, **artificial intelligence**, and bui
 - ⚡ Developing **MERN full-stack applications**  
 - 🎨 Building **modern UI/UX** with **React + Tailwind CSS**  
 - 🤖 Exploring **Machine Learning** with **Python, NumPy, Pandas, Matplotlib**  
-- 🏆 Preparing for **hackathons & real-world projects**  
+
+---
+
+## 🎯 Looking For  
+📌 **Internship Opportunities** in:  
+- MERN Stack Development  
+- Artificial Intelligence / Machine Learning  
+
+I’m eager to **apply my skills, contribute to real-world projects, and grow as a developer**.  
 
 ---
 
