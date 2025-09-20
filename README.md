@@ -4,6 +4,7 @@
 
 I’m passionate about **web development**, **artificial intelligence**, and building **real-world projects**. I love solving problems, contributing to hackathons, and continuously learning new technologies. 🚀  
 
+![Profile Views](https://komarev.com/ghpvc/?username=AbeniYirgalem&label=Profile%20Views&color=blue&style=flat)
 ---
 
 ## 🔥 What I’m Working On  
@@ -59,3 +60,10 @@ I’m eager to **apply my skills, contribute to real-world projects, and grow as
 ## 📊 GitHub Stats  
 ![Abeni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeniYirgalem&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeniYirgalem&layout=compact&theme=radical)  
+
+## 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbeniYirgalem&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+
+## 📈 Activity Graph
+[![Abeni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbeniYirgalem&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
