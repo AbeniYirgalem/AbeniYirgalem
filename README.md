@@ -42,9 +42,12 @@ I’m eager to **apply my skills, contribute to real-world projects, and grow as
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** [abenezeryirgalem0@gmail.com](mailto:abenezeryirgalem0@gmail.com)  
-💼 **LinkedIn:** [Abenezer Yirgalem](https://www.linkedin.com/in/abenezer-yirgalem-831241363/)  
-🌐 **Portfolio (coming soon)**  
+📧 [Email](mailto:abenezeryirgalem0@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abenezer-yirgalem-831241363/)   
+🐙 [GitHub](https://github.com/AbeniYirgalem)  
+🐦 [X (Twitter)](https://x.com/AbeniYirgalem)  
+🌐 [Portfolio (coming soon)](#) 
+
 
 ---
 
