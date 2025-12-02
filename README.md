@@ -47,7 +47,7 @@ I’m eager to **apply my skills, contribute to real-world projects, and grow as
 💼 [LinkedIn](https://www.linkedin.com/in/abenezer-yirgalem-831241363/)   
 🐙 [GitHub](https://github.com/AbeniYirgalem)  
 🐦 [X (Twitter)](https://x.com/AbeniYirgalem)  
-🌐 [Portfolio (coming soon)](#) 
+🌐 [Portfolio ](https://abenezeryirgalem.vercel.app/) 
 
 
 ---
