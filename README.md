@@ -1,82 +1,157 @@
-# 👋 Hi, I'm **Abenezer Yirgalem**  
+<!-- Profile README for: AbeniYirgalem --> 
+<div align="center">
 
-💻 **Software Engineering Student @ AASTU** | 🤖 **AI/ML Enthusiast** | 🌐 **Full-Stack & Mobile Developer**  
+# Hi, I’m **Abenezer Yirgalem** 👋  
+### Software Engineering Student • Full‑Stack **MERN** Developer • AI/ML Enthusiast
 
-I’m passionate about **web development**, **mobile app development**, **artificial intelligence**, and building **real-world projects**. I love solving problems, contributing to hackathons, and continuously learning new technologies. 🚀  
+I build **clean, production-minded web apps** with the MERN stack — and I’m growing my skills in **AI/ML** to ship smarter, more automated products.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbeniYirgalem&label=Profile%20Views&color=blue&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/AbeniYirgalem?label=Follow&style=flat&color=blue)  
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-7c3aed?style=for-the-badge" />
+</p>
 
+<p>
+  <a href="https://github.com/AbeniYirgalem?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repos-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abenezeryirgalem0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abenezer-yirgalem-831241363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 🔥 What I’m Working On  
-
-- ⚡ Developing **MERN full-stack applications**  
-- 📱 Building **Flutter mobile apps** with **Dart** and **Firebase**  
-- 🎨 Creating **modern UI/UX** with **React + Tailwind CSS**  
-- 🤖 Exploring **Machine Learning** with **Python, NumPy, Pandas, Matplotlib**  
-
----
-
-## 🛠 Tech Stack  
-
-### 🌐 Web Development  
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-**Mobile Development:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-
-
-**Database & Tools:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)   
+</div>
 
 ---
 
-## 🤖 AI & Machine Learning  
+## 🎯 Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+- Building **end-to-end MERN products** with clean architecture & reusable components  
+- Strengthening **backend engineering** (NestJS patterns, APIs, auth, validation)  
+- Growing **AI/ML fundamentals** (model building, evaluation, practical deployment thinking)  
+- Shipping more projects with better **documentation, testing, and deployment**
+
+---
+
+<div align="center">
+## 🧰 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+---
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts" />
+
+---
+
+### 🧠 AI / Data
+
+<img src="https://skillicons.dev/icons?i=python" />  
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-0b1220?style=flat-square\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-0b1220?style=flat-square\&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0b1220?style=flat-square\&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0b1220?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b1220?style=flat-square\&logo=jupyter)
+
+---
+
+### 📱 Mobile / Cross-Platform
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+---
+
+### 🧩 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+
+---
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![AbeniYirgalem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeniYirgalem&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeniYirgalem&layout=compact&theme=radical)  
- 
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbeniYirgalem&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbeniYirgalem&layout=compact&theme=tokyonight)
+
+---
+<div align="center">
+## 🔥 Contribution / Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbeniYirgalem&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeniYirgalem&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+
+</div>
+</div>
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
-📧 [Email](mailto:abenezeryirgalem0@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/abenezer-yirgalem-831241363/)  
-🐙 [GitHub](https://github.com/AbeniYirgalem)  
-🐦 [X (Twitter)](https://x.com/AbeniYirgalem)  
-🌐 [Portfolio](https://abenezeryirgalem.vercel.app/)  
+<div align="center">
+
+<a href="mailto:abenezeryirgalem0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abenezer-yirgalem-831241363/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/AbeniYirgalem">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://x.com/AbeniYirgalem">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://abenezeryirgalem.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Open to internships, collaborations, and building impactful products.*
+
+</div>
+
 
 ---
 
 ## ⚡ Fun Fact  
 
-> *“I love turning ideas into code and believe every project is a step toward innovation.”* 💡  
+> *“I love turning ideas into code and believe every project is a step toward innovation.”* 💡
+
