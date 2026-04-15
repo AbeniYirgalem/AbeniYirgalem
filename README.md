@@ -41,25 +41,18 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 <div align="center">
 ## 🧰 Tech Stack
 
+---
+
 <div align="center">
 
-### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
----
-
-### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts" />
 
----
-
-### 🧠 AI / Data
-
 <img src="https://skillicons.dev/icons?i=python" />  
 
-<br/>
 
 ![NumPy](https://img.shields.io/badge/NumPy-0b1220?style=flat-square\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-0b1220?style=flat-square\&logo=pandas)
@@ -67,23 +60,14 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0b1220?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0b1220?style=flat-square\&logo=jupyter)
 
----
-
-### 📱 Mobile / Cross-Platform
-
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
----
 
-### 🧩 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-
----
-
-### 🛠️ Tools & Platforms
+<!-- <img src="https://skillicons.dev/icons?i=js,ts,python,java" />   -->
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+
 
 </div>
 
