@@ -39,9 +39,10 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 ---
 
 <div align="center">
+  
 ## 🧰 Tech Stack
 
----
+
 
 <div align="center">
 
@@ -81,6 +82,7 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 
 ---
 <div align="center">
+  
 ## 🔥 Contribution / Activity
 
 <div align="center">
