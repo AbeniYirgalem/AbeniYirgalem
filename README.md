@@ -120,7 +120,7 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://abenezeryirgalem.vercel.app/">
+<a href="https://abenezeryirgalem.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
