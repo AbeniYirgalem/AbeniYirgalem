@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I’m **Abenezer Yirgalem** 👋  
-### Software Engineering Student • Full‑Stack **MERN** Developer • AI/ML Enthusiast
+### Software Engineer | MERN Stack Developer | AI/ML Enthusiast
 
 I build **clean, production-minded web apps** with the MERN stack — and I’m growing my skills in **AI/ML** to ship smarter, more automated products.
 
