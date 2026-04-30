@@ -8,7 +8,7 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-MERN-16a34a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-7c3aed?style=for-the-badge" />
 </p>
@@ -91,11 +91,11 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeniYirgalem&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 
-</div>
+</div> -->
 </div>
 
 ---
