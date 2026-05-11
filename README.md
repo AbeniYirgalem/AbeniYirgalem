@@ -14,7 +14,7 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 </p>
 
 <p>
-  <a href="https://github.com/AbeniYirgalem?tab=repositories">
+  <a href="https://github.com/abenezeryirgalem?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repos-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:abenezeryirgalem0@gmail.com">
@@ -76,9 +76,9 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbeniYirgalem&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abenezeryirgalem&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbeniYirgalem&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abenezeryirgalem&layout=compact&theme=tokyonight)
 
 ---
 <div align="center">
@@ -87,7 +87,7 @@ I build **clean, production-minded web apps** with the MERN stack — and I’m 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AbeniYirgalem&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=abenezeryirgalem&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
